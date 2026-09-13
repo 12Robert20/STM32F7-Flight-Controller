@@ -51,7 +51,7 @@ To ensure signal integrity and controlled impedance for high-speed traces, a sta
 
 ---
 
-## 📝 Firmware Compatibility (In Development)
+## 🚧🚧🚧 📝 Firmware Compatibility (In Development) 🚧🚧🚧
 
 This hardware is architected to be compatible with major open-source flight controller firmware. Custom target definition files are required to map the pins correctly.
 *   **Betaflight** (Recommended for FPV)

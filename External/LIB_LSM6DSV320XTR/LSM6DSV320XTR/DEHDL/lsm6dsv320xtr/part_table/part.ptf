@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LSM6DSV320XTR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "LSM6DSV320XTR" (!) = "", "LSM6DSV16BXTR", "Other", "511-LSM6DSV320XTR", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/LSM6DSV320XTR?qs=ZcfC38r4PovtVvaAitDAYA%3D%3D", "LSM6DSV320XTR", "https://www.arrow.com/en/products/lsm6dsv320xtr/stmicroelectronics?utm_currency=USD&region=nac", "6-axis IMU (inertial measurement unit) with high-g accelerometer, embedded AI, and sensor fusion for high-end applications, car crash detection", "https://www.st.com/resource/en/datasheet/lsm6dsv320x.pdf", "0.74 mm"
+END_PART
+
+END.

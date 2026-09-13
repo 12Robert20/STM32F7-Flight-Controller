@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=LSM6DSV320XTR
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=14
+Version=3.1
+Released=2024-01-22 09:27:34
+Downloaded=2026-08-29 13:30:19
+3D=Y

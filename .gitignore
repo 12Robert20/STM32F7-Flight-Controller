@@ -1,0 +1,25 @@
+# Sistem de operare (Junk Files)
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# Python & PlatformIO (pentru microcontrolere)
+__pycache__/
+.pio/
+build/
+*.o
+*.exe
+*.elf
+*.hex
+*.bin
+
+# KiCad (Backups & Cache)
+*.kicad_sch-bak
+*.kicad_pcb-bak
+
+# Date sensibile / Parole
+.env
+secrets.h

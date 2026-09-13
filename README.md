@@ -3,7 +3,7 @@
 A high-performance, 4-layer custom Flight Controller designed in KiCad 8. Built around the powerful STM32F777 microcontroller, it features an advanced IMU, integrated OSD, and Blackbox logging capabilities, tailored for demanding FPV and autonomous flight applications.
 
 [![Status](https://img.shields.io/badge/Status-Design_Complete-success?style=flat-square)]()
-[![KiCad](https://img.shields.io/badge/KiCad-8.0-2f74c0?style=for-the-badge&logo=kicad&logoColor=white)]()
+[![KiCad](https://img.shields.io/badge/KiCad-10.0-2f74c0?style=for-the-kicad&Color=white)]()
 [![Layers](https://img.shields.io/badge/Layers-4-orange?style=flat-square)]()
 
 *(Insert a 3D Render of the Top and Bottom of the PCB here)*
